@@ -67,6 +67,7 @@ const perguntas = [
             {
                 texto: "acampamento",
                 afirmacao: "esquilo"
+            }
         ]
     },
 ];
